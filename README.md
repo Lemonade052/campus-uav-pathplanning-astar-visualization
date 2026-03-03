@@ -3,6 +3,7 @@
 1. 安装依赖：`pip install matplotlib numpy`
 2. 进入code文件夹：`cd code`
 3. 运行主程序：`python pathplanning.py`
+
 方法二：
 使用其他编程软件打开项目直接运行code/pathplanning.py即可
 （确保已安装1.matplotlib 2.numpy）
